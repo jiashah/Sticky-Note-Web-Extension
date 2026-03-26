@@ -33,5 +33,5 @@ No data ever leaves your device. No accounts, no server.
 
 ---
 
-![alt text](<Screenshot 2026-03-26 234504.png>)
-![alt text](<Screenshot 2026-03-26 234516.png>)
+![screenshot_1](<SS1.png>)
+![screenshot_2](<SS2.png>)
